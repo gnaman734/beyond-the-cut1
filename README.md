@@ -4,20 +4,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-- [Overview](#-overview)
-- [Project Goals](#-project-goals)
-- [Folder Structure](#-folder-structure)
-- [How to Use](#-how-to-use)
-- [Tech Stack & Tools](#-tech-stack--tools)
-- [Showcase](#-showcase)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Connect with Me](#-connect-with-me)
-
----
-
 ## 🌟 Overview
 
 In the world of content and cinema, the **cut** is often underestimated. But a good cut can create tension, evoke emotion, or even deliver a punchline. *Beyond the Cut* explores **how editing shapes meaning**, experimenting with:
