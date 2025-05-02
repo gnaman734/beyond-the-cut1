@@ -1,119 +1,104 @@
-# 🎞️ Beyond the Cut
+# 🎬 Beyond the Cut
 
-**Beyond the Cut** is a creative, open-source initiative by [Naman Gupta](https://github.com/gnaman734) that delves deep into the art of **video editing, cinematic storytelling, and post-production design**. This project is more than just a portfolio — it's a **living lab** of experiments, ideas, resources, and passion projects that explore how storytelling can be shaped through the rhythm and emotion of a cut.
-
----
-
-## 🌟 Overview
-
-In the world of content and cinema, the **cut** is often underestimated. But a good cut can create tension, evoke emotion, or even deliver a punchline. *Beyond the Cut* explores **how editing shapes meaning**, experimenting with:
-
-- Visual storytelling through short clips and sequences  
-- Color grading for emotional impact  
-- Sound design to reinforce narrative beats  
-- Editorial pacing, timing, and transitions  
-- Reverse-engineered breakdowns of iconic scenes  
+**Beyond the Cut** is an open-source project by [Naman Gupta](https://github.com/gnaman734) dedicated to exploring the art and craft of video editing, cinematic storytelling, and post-production. This repository serves as a creative lab — showcasing original edits, visual experiments, and learning resources for aspiring filmmakers, editors, and storytellers.
 
 ---
 
-## 🎯 Project Goals
+## 📖 Overview
 
-- 📽️ Document original video editing projects, including process files  
-- 🎨 Share reusable LUTs (Look-Up Tables), templates, and presets  
-- 🧠 Provide educational breakdowns and behind-the-scenes insights  
-- 🤝 Invite collaboration from other video editors and storytellers  
-- 🔁 Create a cyclical process of feedback and refinement  
+This project goes beyond just “cutting” footage — it focuses on the emotional, narrative, and technical impact of editing. Whether you're interested in pacing, transitions, sound design, or color grading, **Beyond the Cut** provides real-world project files, breakdowns, and examples to help elevate your storytelling.
 
 ---
 
-## 🗂️ Folder Structure
+## 🎯 Objectives
+
+- Showcase short video edits and creative sequences
+- Share reusable resources like LUTs, templates, and presets
+- Break down the thought process behind each edit
+- Document the use of professional tools and workflows
+- Encourage open collaboration and learning in the editing community
+
+---
+
+## 🗂️ Project Structure
 
 ```bash
 beyond-the-cut/
 │
-├── assets/             # Raw footage, background music, SFX, image overlays
-├── edits/              # Final exported videos and showreels
-├── project-files/      # Premiere Pro, After Effects, or DaVinci Resolve files
-├── color-presets/      # LUTs and grading profiles
-├── audio-design/       # Audio tracks, mixing stems, Foley sounds
-├── breakdowns/         # Scene analyses, BTS, notes on technique
-├── docs/               # Guides, learning notes, documentation
-└── README.md           # This file
-
-
-🔧 How to Use
-Clone the Repository
-
+├── assets/             # Raw footage, background music, overlays
+├── edits/              # Final exported videos (MP4, MOV)
+├── project-files/      # Premiere Pro, After Effects, DaVinci Resolve files
+├── color-presets/      # Custom LUTs and color grading profiles
+├── audio-design/       # Sound effects, music beds, voiceovers
+├── breakdowns/         # Scene-by-scene editing breakdowns with explanations
+├── docs/               # Guides, notes, and helpful resources
+└── README.md           # Project documentation
+⚙️ How to Use
+1. Clone the Repository
 bash
 Copy
 Edit
 git clone https://github.com/gnaman734/beyond-the-cut1.git
 cd beyond-the-cut1
-Open a Project
+2. Open a Project
+Navigate to the project-files/ folder and open .prproj, .aep, or .drp files using your preferred software.
 
-Navigate to the project-files/ folder and open .prproj (Premiere Pro) or .drp (DaVinci Resolve) files to explore timeline arrangements and effects.
+3. Preview Final Outputs
+Explore the edits/ folder to watch final exported versions of the edited sequences.
 
-Preview Outputs
+4. Apply Color Presets
+Use the .cube LUT files in the color-presets/ folder within your video editing tool to experiment with color grading styles.
 
-Visit the edits/ folder for exported sequences. These are high-quality MP4/MOV clips that demonstrate finished work.
-
-Apply LUTs
-
-Use any .cube files inside color-presets/ in your editor to experiment with moods, tones, and styles.
-
-Learn & Explore
-
-Inside the breakdowns/ folder, you’ll find annotated guides breaking down why and how certain cuts or effects were done.
-
-🛠️ Tech Stack & Tools
-Area	Tools / Software
+🧰 Tools & Technologies
+Category	Tools Used
 Video Editing	Adobe Premiere Pro, DaVinci Resolve
 Motion Graphics	Adobe After Effects
 Audio Editing	Audacity, FL Studio
 Color Grading	DaVinci Resolve, LUTCalc
-Design Assets	Adobe Photoshop, Canva
-File Management	Git, GitHub
+Visual Design	Adobe Photoshop, Canva
+Collaboration	Git, GitHub
 
-🎥 Showcase
-Coming Soon: Video previews and demo reels embedded here.
-
+📸 Showcase (Coming Soon)
 Stay tuned for:
 
-The Sound of Silence – A short sequence focusing on soundless tension
+Emotive Cuts – Scene edited for maximum emotional impact
 
-Pulse Edit – A music video edited purely on audio beats
+Beat Sync Experiments – Videos cut precisely to music rhythms
 
-Emotions in Color – A collection of clips showcasing the power of LUTs
+Cinematic Color Packs – Downloadable LUTs with sample applications
+
+Behind-the-Edit – Annotated timelines and process videos
 
 🤝 Contributing
-This is a passion project, but it’s also a collaborative playground. You can:
+We welcome creative collaborators! You can contribute by:
 
-Submit your own edits
+Sharing your own editing sequences
 
-Share your color grades or transitions
+Creating custom LUTs or sound designs
 
-Write scene breakdowns
+Writing scene breakdowns or how-to guides
 
-Create tutorial-style guides
+Reporting issues or suggesting improvements
 
-Steps to Contribute
-Fork the repository
+Steps to Contribute:
+Fork the repo
 
-Create a branch: git checkout -b your-feature
+Create a new branch: git checkout -b feature-name
 
 Commit your changes: git commit -m 'Add feature'
 
-Push to the branch: git push origin your-feature
+Push to GitHub: git push origin feature-name
 
 Open a Pull Request
 
 📜 License
-This project is licensed under the MIT License. You’re free to use, modify, and distribute with attribution.
+This project is licensed under the MIT License.
+You are free to use, modify, and share the content, with proper credit.
 
-🔗 Connect with Me
-📌 Naman Gupta
+👤 About the Author
+Naman Gupta
 🎓 B.Tech Student @ Newton School of Technology
-💻 GitHub | LinkedIn
-📽️ Passionate about Cinematography, Color Grading, Cybersecurity & Web3
+📍 Cinematography | Video Editing | Color Grading | Cybersecurity
+🌐 GitHub • LinkedIn
 
-“Great editing isn't noticed. It’s felt.”
+"Great editing isn’t just seen — it’s felt." 🎥
